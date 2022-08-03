@@ -10,6 +10,7 @@ public class Test {
         String str2 = "123456789";
 
 
+
         System.out.println(str.substring(0, str.length() - 4));
     }
 }
